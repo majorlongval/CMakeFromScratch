@@ -1,0 +1,5 @@
+/home/jorlong/repos/CMakeFromScratch/build/CMakeFiles/rebuild_cache.dir
+/home/jorlong/repos/CMakeFromScratch/build/CMakeFiles/edit_cache.dir
+/home/jorlong/repos/CMakeFromScratch/build/src/CMakeFiles/rebuild_cache.dir
+/home/jorlong/repos/CMakeFromScratch/build/src/CMakeFiles/edit_cache.dir
+/home/jorlong/repos/CMakeFromScratch/build/src/CMakeFiles/BlankProject.dir

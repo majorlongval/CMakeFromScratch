@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jorlong/repos/CMakeFromScratch/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9 -g -o src/CMakeFiles/BlankProject.dir/main.cpp.o -c /home/jorlong/repos/CMakeFromScratch/src/main.cpp",
+  "file": "/home/jorlong/repos/CMakeFromScratch/src/main.cpp"
+}
+]
